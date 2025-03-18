@@ -1,18 +1,18 @@
 {
   "name": "Great Grandfather",
-  "photo": "photos/great_grandfather.jpg",
+  "photo": "family-tree.jpg",
   "children": [
     {
       "name": "Grandfather",
-      "photo": "photos/grandfather.jpg",
+      "photo": "family-tree.jpg",
       "children": [
         {
           "name": "Father",
-          "photo": "photos/father.jpg",
+          "photo": "family-tree.jpg",
           "children": [
             {
               "name": "You",
-              "photo": "photos/you.jpg",
+              "photo": "family-tree.jpg",
               "children": []
             }
           ]
